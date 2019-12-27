@@ -1,7 +1,7 @@
 Generative Design Book Examples
 ===============================
 
-Examples from the book (Generative Design)[http://www.generative-gestaltung.de/]
+Examples from the book [Generative Design](http://www.generative-gestaltung.de/)
 coded in Racket. 
 
 Instead of using Processing (Java) to explore the examples in the book, I decided to follow along using Racket instead
