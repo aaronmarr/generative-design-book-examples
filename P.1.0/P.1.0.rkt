@@ -3,7 +3,6 @@
 (require colors)
 (require racket/draw)
 
-
 (define target (make-bitmap 720 720))
 (define dc (new bitmap-dc% [bitmap target]))
 
