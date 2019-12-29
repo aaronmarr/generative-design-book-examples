@@ -3,7 +3,6 @@
 (require colors)
 (require racket/draw)
 
-
 (define width 800)
 (define height 400)
 
